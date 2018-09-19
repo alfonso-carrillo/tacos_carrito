@@ -1,0 +1,152 @@
+.navbar {
+	background-image: linear-gradient(red, orange);
+	border-bottom: 0px;
+	margin-bottom: 0px;
+}
+
+.etiqueta-header {
+	color: #fff;
+}
+
+.list {
+	left: 260px;
+}
+
+.carousel-inner	{
+	margin-top: -40px;
+}
+
+.logo {
+	
+	width:400px;
+    height:200px;
+}
+
+.container-header {
+	padding: 0px;
+}
+
+
+.food {
+	position: relative;
+	top: -125px;
+	right: -260px;
+	font-size:30px ;
+}
+
+.offer {
+	position: relative;
+	right: -210px;
+	font-size:50px ;
+}
+
+.offer2 {
+	font-size:50px ;
+}
+
+.direccion {
+  position:relative;
+    bottom:-150px ;
+  left: 360px;
+  font-size:50px ;
+}
+
+.direccion4 {
+	position:relative;
+    bottom:-150px ;
+	left: 440px;
+	font-size:50px ;
+}
+
+.direccion5 {
+	position:relative;
+    bottom:-150px ;
+	left: 580px;
+	font-size:50px ;
+}
+
+.nel {
+	width: 100vw;
+	height:100vw;
+}
+
+.nel2 {
+	width: 100vw;
+	height:100vw;
+}
+
+hr {
+	border: 4px solid orange;
+}
+
+.products {
+      border: 1px solid #333;
+      background-color: #f1f1f1;
+      border-radius: 5px;
+      padding: 16px;
+      margin-bottom: 20px;
+  }
+
+.table {
+    margin: 0px auto;
+    float: none;
+}
+
+.row {
+    margin: 0px auto;
+    float: none;
+}
+
+.centered{
+    float: none;
+    margin: 0 auto;
+}
+
+.button {
+    background: #6394F8;
+    color:white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    display: block;
+    border-radius: 3px;
+    font-size: 16px;
+    margin: 25px 0 15px 0;
+}
+
+ .button:visited {
+      text-decoration: none;
+      color: white;
+}
+
+.button:hover {
+    background: #7fa9ff;
+    text-decoration: none;
+    color: white;
+}
+
+.button:active {
+    text-decoration: none;
+    color: white;
+}
+
+.btn-danger {
+      font-size: 12px;
+      padding: 3px;
+}
+
+.btn-danger:hover {
+      text-decoration: none;
+  }
+
+a {
+      text-decoration: none;
+}
+
+a:hover {
+      text-decoration: none;
+  }
+
+h3 {
+      margin-top: 0px;
+}
